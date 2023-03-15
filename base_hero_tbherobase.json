@@ -1,0 +1,1127 @@
+[
+  {
+    "hero_id": 10000,
+    "type": 1,
+    "name": "吕布",
+    "model": 101002,
+    "icon": "hero2-1",
+    "big_icon": "hero2",
+    "job": 1,
+    "color": 1,
+    "normal_skill_id_list": [
+      100012
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 1
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 100000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 50
+      }
+    ],
+    "chip_id": 20001,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 10001,
+    "type": 2,
+    "name": "吕布",
+    "model": 101004,
+    "icon": "hero1-1",
+    "big_icon": "hero1",
+    "job": 2,
+    "color": 1,
+    "normal_skill_id_list": [
+      100013
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000311
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000312
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000313
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000314
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 2
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 100000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 50
+      }
+    ],
+    "chip_id": 20002,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 20001,
+    "type": 3,
+    "name": "张飞",
+    "model": 101004,
+    "icon": "hero2-1",
+    "big_icon": "hero2",
+    "job": 3,
+    "color": 2,
+    "normal_skill_id_list": [
+      100015
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000311
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 3
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 300
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 80000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 60
+      }
+    ],
+    "chip_id": 20003,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 30001,
+    "type": 4,
+    "name": "曹仁",
+    "model": 101002,
+    "icon": "hero3-1",
+    "big_icon": "hero3",
+    "job": 4,
+    "color": 3,
+    "normal_skill_id_list": [
+      100012
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 80000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 80
+      }
+    ],
+    "chip_id": 20004,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 30002,
+    "type": 4,
+    "name": "关羽",
+    "model": 101002,
+    "icon": "hero4-1",
+    "big_icon": "hero4",
+    "job": 5,
+    "color": 3,
+    "normal_skill_id_list": [
+      100012
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 80000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 80
+      }
+    ],
+    "chip_id": 20005,
+    "chip_num": 10
+  },
+  {
+    "hero_id": 30003,
+    "type": 4,
+    "name": "刘备",
+    "model": 54112,
+    "icon": "hero5-1",
+    "big_icon": "hero5",
+    "job": 6,
+    "color": 3,
+    "normal_skill_id_list": [
+      1012011
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 80000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 80
+      }
+    ],
+    "chip_id": 20006,
+    "chip_num": 10
+  },
+  {
+    "hero_id": 30004,
+    "type": 4,
+    "name": "曹操",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 1,
+    "color": 3,
+    "normal_skill_id_list": [
+      1012011
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 1012009
+      },
+      {
+        "pos": 2,
+        "skill_id": 1001301
+      },
+      {
+        "pos": 3,
+        "skill_id": 1001302
+      },
+      {
+        "pos": 4,
+        "skill_id": 1001303
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 200
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 100
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 80000
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 80
+      }
+    ],
+    "chip_id": 20007,
+    "chip_num": 10
+  },
+  {
+    "hero_id": 50001,
+    "type": 1,
+    "name": "曹仁",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 1,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000101
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000111
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000112
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000113
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000114
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000111
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000112
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000113
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000114
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 163
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 177
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 2022
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 10
+      }
+    ],
+    "chip_id": 50001,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50002,
+    "type": 1,
+    "name": "司马懿",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 1,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000201
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000211
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000212
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000213
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000214
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000211
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000212
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000213
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000214
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 182
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 135
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 1421
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 12
+      }
+    ],
+    "chip_id": 50002,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50003,
+    "type": 1,
+    "name": "吕布",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 2,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000301
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000311
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000312
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000313
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000314
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000311
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000312
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000313
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000314
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 162
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 156
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 2007
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 12
+      }
+    ],
+    "chip_id": 50003,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50004,
+    "type": 1,
+    "name": "华佗",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 6,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000401
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000411
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000412
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000413
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000414
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000411
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000412
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000413
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000414
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 136
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 141
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 1504
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 10
+      }
+    ],
+    "chip_id": 50004,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50005,
+    "type": 1,
+    "name": "关羽",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 1,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000501
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000511
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000512
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000513
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000514
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000511
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000512
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000513
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000514
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 161
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 160
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 1994
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 12
+      }
+    ],
+    "chip_id": 50005,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50006,
+    "type": 1,
+    "name": "诸葛亮",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 5,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000601
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000611
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000612
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000613
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000614
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000611
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000612
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000613
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000614
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 181
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 135
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 1412
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 12
+      }
+    ],
+    "chip_id": 50006,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50007,
+    "type": 1,
+    "name": "周瑜",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 5,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000701
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000711
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000712
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000713
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000714
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000711
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000712
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000713
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000714
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 180
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 134
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 1403
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 12
+      }
+    ],
+    "chip_id": 50007,
+    "chip_num": 8
+  },
+  {
+    "hero_id": 50008,
+    "type": 1,
+    "name": "孙策",
+    "model": 101001,
+    "icon": "hero6-1",
+    "big_icon": "hero6",
+    "job": 1,
+    "color": 3,
+    "normal_skill_id_list": [
+      5000801
+    ],
+    "skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000811
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000812
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000813
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000814
+      }
+    ],
+    "awake_skill_list": [
+      {
+        "pos": 1,
+        "skill_id": 5000811
+      },
+      {
+        "pos": 2,
+        "skill_id": 5000812
+      },
+      {
+        "pos": 3,
+        "skill_id": 5000813
+      },
+      {
+        "pos": 4,
+        "skill_id": 5000814
+      }
+    ],
+    "awake": [
+      {
+        "goods_id": 1001,
+        "goods_num": 4
+      }
+    ],
+    "attrs": [
+      {
+        "attr_name": "att",
+        "attr_val": 155
+      },
+      {
+        "attr_name": "def",
+        "attr_val": 171
+      },
+      {
+        "attr_name": "hp_lim",
+        "attr_val": 2111
+      },
+      {
+        "attr_name": "speed",
+        "attr_val": 10
+      }
+    ],
+    "chip_id": 50008,
+    "chip_num": 8
+  }
+]
